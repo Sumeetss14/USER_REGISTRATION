@@ -5,4 +5,4 @@ ii)Service (handles the specific action or operatin user request)
 iii)Controller (help in handling user input and generating responses)
 iv)JSP (Simply related as a html file which act as view layer)
 v)Repository(handles the storage and retrieval of data acting aa a bridge btw the app and database)
-
+## Made dynamic Url (using requestparam, modelandview, ......)
